@@ -1,0 +1,24 @@
+.slider-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/planets-app/planets-bg-img.png');
+  background-size: cover;
+  padding: 40px;
+  min-height: 100vh;
+}
+.cont {
+  width: 800px;
+}
+.card-cont {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.heading {
+  font-size: 30px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  color: #05acff;
+}

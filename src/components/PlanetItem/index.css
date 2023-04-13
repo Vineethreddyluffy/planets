@@ -1,0 +1,22 @@
+.image {
+  height: 200px;
+  width: 300px;
+}
+.main-head {
+  font-size: 20px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  color: #f8fafc;
+}
+.desc {
+  font-size: 18px;
+  font-family: 'Roboto';
+  color: #f1f5f9;
+  text-align: center;
+}
+.list-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
